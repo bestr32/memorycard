@@ -1,0 +1,11 @@
+.footer {
+  background: linear-gradient(rgb(46, 150, 245), rgb(34, 92, 210));
+  padding: 2em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 0 0 3px black;
+  font-size: 1.125em;
+  color: #fff;
+  text-align: center;
+}
